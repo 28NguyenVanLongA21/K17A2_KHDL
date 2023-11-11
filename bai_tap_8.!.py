@@ -1,0 +1,5 @@
+a, b, c, d = map(int,input('nhập a ,b ,c, d: ').split())
+Max = max(a, b, c, d)
+Min = min(a, b, c, d)
+print('Max =',Max)
+print('Min =',Min)
